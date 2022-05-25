@@ -62,8 +62,35 @@ Estilo da página index.html
     margin-left: 50px;
 }
 
+/*
+:root{
+    --fundo: #f5f5f5;
+    --text: #212121;
+}
 
+body{
+    background-color: var(--fundo);
+    color: var(--text);
+}
 
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
-/* Etilo da página contato
- */
+.btn{
+    margin-top: 32px;
+    width: 160px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 2px solid var(--text);
+    background-color: var(--fundo);
+    font-weight: bold;
+}
+
+.dark-theme{
+    background-color: var(--text);
+    color: var(--fundo);
+}
+*/
